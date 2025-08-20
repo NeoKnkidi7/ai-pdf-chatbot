@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+python-multipart==0.0.6
+langchain==0.0.349
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+pypdf==3.17.1
+unstructured==0.12.2
+python-dotenv==1.0.0
+pydantic==2.5.0
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+sqlalchemy==2.0.23
+aiofiles==23.2.1
+chromadb==0.4.15
